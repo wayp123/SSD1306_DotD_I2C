@@ -128,7 +128,6 @@ int main(void)
   MX_USART3_UART_Init();
   MX_USB_OTG_FS_PCD_Init();
   MX_I2C1_Init();
-
   /* USER CODE BEGIN 2 */
 
   // Init lcd using one of the stm32HAL i2c typedefs
